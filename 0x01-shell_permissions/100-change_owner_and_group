@@ -1,2 +1,2 @@
 #!/bin/bash
-vincent.staff.nl
+chown betty:my_dir *
